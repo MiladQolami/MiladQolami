@@ -1,12 +1,11 @@
-Hi there 👋
-I'm Milad Qolami, an MSc graduate in Optometry and a passionate Neuroscience Researcher at Royan Institute.
+### Hi there 👋
+
+I'm Milad Qolami, an MSc graduate in Optometry and a Neuroscience Researcher at Royan Institute. My current research focuses on neural correlates of complex object recognition and aslo psychophysical experimetns on binocular visual perception.
 
 
-🔭 Currently Working On: Advanced research in neuroscience, focusing on neural data analysis and electrophysiological recording. I'm involved in some projects, including the National Parkinson's Disease Project.
+Feel free to check out my repositories, discuss collaboration opportunities, or reach out for any exciting neuroscience-related discussions!
 
+📫 Reach me at: miladqolamee@gmail.com
+🔗 Visit my portfolio: [miladqolami.github.io](https://miladqolami.github.io)
 
-🌱 Learning: Continuously expanding my knowledge in neuroscience including experimental and computational aspects.
-
-
-📫 Reach Me At: miladqolamee@gmail.com
 
